@@ -1,5 +1,5 @@
 # outline-server-guide
-Ubuntu 24.04 部署 Outline Server 完整教程
+## Ubuntu 24.04 部署 Outline Server 完整教程
 本项目通过 VPS 服务器部署 Outline Server，搭建个人网络代理服务，实现跨网络访问。
 
 教程以 Ubuntu 24.04 + Docker + Outline Server 为基础，从服务器准备到 Outline Server 部署完成进行完整记录。
